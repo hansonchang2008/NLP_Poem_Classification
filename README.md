@@ -3,7 +3,7 @@
 In this project we implemeted and compared the accuracy of 8 machine learning model on mentiod NLP task.
 
 ### Report 
-<a href=""https://www.overleaf.com/read/bcqcthkxtycb> report file </a>
+<a href="https://www.overleaf.com/read/bcqcthkxtycb"> report file </a>
 
 ### Data
 Please find the data in ```data/``` directory.
